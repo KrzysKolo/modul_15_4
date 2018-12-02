@@ -1,0 +1,16 @@
+{
+  "name": "zad_15_4_12_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "skrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel skrypt.js --watch --out-file skrypt-compiled.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
